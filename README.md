@@ -1,3 +1,8 @@
+<img width="1920" height="1035" alt="Image" src="https://github.com/user-attachments/assets/30742401-2e52-4b34-bba0-d4844a6cebe3" />
+
+---
+
+
 ***📊 Análise de Dados - Cancelamentos de Clientes (Churn Analysis)***
 <p>📖 Sobre o Projeto:
 
