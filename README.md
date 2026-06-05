@@ -23,8 +23,8 @@ Através da análise exploratória de dados utilizando Python e Pandas, foram in
 
 <p>🛠️ Tecnologias Utilizadas no momento:
 <p>Python |
-Pandas |
-Jupyter Notebook |
+Pandas ·
+Jupyter Notebook ·
 Plotly </p>
 📂 Estrutura do Projeto
 📦 analise-cancelamentos
