@@ -3,7 +3,7 @@
 ---
 
 
-***📊 Análise de Dados - Cancelamentos de Clientes (Churn Analysis)***
+***📊 Análise de Dados - Cancelamentos de Clientes (Churn Analysis)*** - (Em andamento)
 <p>📖 Sobre o Projeto:
 
 Este projeto tem como objetivo analisar o comportamento dos clientes e identificar os principais fatores que influenciam o cancelamento de serviços (churn).
