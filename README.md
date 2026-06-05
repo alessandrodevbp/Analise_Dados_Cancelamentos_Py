@@ -31,6 +31,10 @@ Através da análise exploratória de dados utilizando Python e Pandas, foram in
 Pandas ·
 Jupyter Notebook ·
 Plotly </p>
+
+---
+
+
 📂 Estrutura do Projeto
 📦 analise-cancelamentos
  ┣ 📜 cancelamentos.csv
